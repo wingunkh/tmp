@@ -136,16 +136,25 @@ blank
   
   <tr>
     <td align="center">
-        <a href="https://github.com/gretea5"><img src="https://avatars.githubusercontent.com/u/120379834?v=4" width="150px;" alt="박장훈"/><br/><sub><b>박장훈</b></sub></a>
+        <img src="https://avatars.githubusercontent.com/u/120379834?v=4" width="150px;" alt="박장훈"/>
     </td>
     <td align="center">
-        <a href="https://github.com/wingunkh"><img src="https://avatars.githubusercontent.com/u/58140360?v=4" width="150px" alt="김현근"/><br/><sub><b>김현근)</b></sub></a>
+        <img src="https://avatars.githubusercontent.com/u/58140360?v=4" width="150px" alt="김현근"/>
     </td>
   </tr>
-  
+
   <tr>
-    <td colspan="1" align="center">Android Modile Application 개발 (Kotlin)</td>
-    <td colspan="1" align="center">Spring Web Application 개발 (Java)</td>
+      <td colspan="1" align="center">
+          <a href="https://github.com/gretea5"><strong>박장훈</strong></a>
+      </td>
+      <td colspan="1" align="center">
+          <a href="https://github.com/gretea5"><strong>김현근</strong></a>
+      </td>
+  </tr>
+
+  <tr>
+    <td colspan="1" align="center"><strong>Android Mobile Application 개발 (Kotlin)</strong></td>
+    <td colspan="1" align="center"><strong>Spring Web Application 개발 (Java)</strong></td>
   </tr>
 </table>
 </div>
