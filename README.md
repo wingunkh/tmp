@@ -148,7 +148,7 @@ blank
           <a href="https://github.com/gretea5"><strong>박장훈</strong></a>
       </td>
       <td colspan="1" align="center">
-          <a href="https://github.com/gretea5"><strong>김현근</strong></a>
+          <a href="https://github.com/wingunkh"><strong>김현근</strong></a>
       </td>
   </tr>
 
