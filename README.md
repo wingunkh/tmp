@@ -43,95 +43,12 @@
 또한 각 응급실의 잔여 병상 수를 실시간으로 확인 가능함과 동시에 현재 시각으로부터 2시간 동안의<br>
 병상 이용 가능 시간 비율 및 병상 수 변동 추이 그래프를 제공하여 사용자가 최적의 응급실을 선택하는 데 있어 도움을 줄 수 있습니다.
 
+<br>
+
 ## ⭐ 주요 기능
-> ### 응급실 정보 제공 (위치, 전화번호 外 CT & MRI 촬영 가능 여부 등)
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325"
-    height="720"
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
-  <br><br>
-</details>
+blank
 
-> ### 응급실 잔여 병상 수 실시간 제공 (1분 간격 갱신)
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325" 
-    height="720"
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/e685a776-cbbc-4e65-8f90-36dfc40df6bc">
-  <br><br>
-</details>
-
-> ### 카카오 맵 API를 통한 사용자 현재 위치 기준 가까운 응급실 목록 및 최적 경로 제공
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325" 
-    height="720" 
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/633431e6-621b-4ddf-acb0-aa9e47d6e7a8">
-  <br><br>
-</details>
-
-
-> ### 카카오 모빌리티 API를 통한 응급실 예상 도착 시간 및 이동 거리 제공
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325" 
-    height="720" 
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/6a974298-75fa-4514-a69e-029b8fe2fff8">
-  <br><br>
-</details>
-
-> ### 최근 2시간 동안의 병상 이용 가능 시간 비율 그래프 제공
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325" 
-    height="720" 
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/ce09642c-0746-4329-8d83-3f0f4cb53439">
-  <br><br>
-</details>
-
-> ### 최근 2시간 동안의 병상 수 변동 추이 그래프 제공 (15분 간격)
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325" 
-    height="720" 
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/229ba0a3-3528-48e4-a853-6365156849df">
-  <br><br>
-</details>
-
-> ### 사용자 문진표 작성 기능 제공
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325" 
-    height="720" 
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/c9653656-5634-42e9-91b7-99d5032d7f6e">
-  <br><br>
-</details>
-
-> ### 사용자 간 문진표 연동을 통한 문진표 상호 동기화 기능 제공
-<details>
-  <summary><b>화면 보기</b></summary>
-  <br>
-  <img 
-    width="325"
-    height="720"
-    src="https://github.com/gretea5/findER-frontend/assets/120379834/e76a8915-4b0a-4197-80ae-1c578dd3c059">
-  <br><br>
-</details>
+<br>
 
 ## 📚 기술 스택
 <div>
@@ -141,18 +58,17 @@
                 Language
             </td>
             <td colspan="4">
-                <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> 
+                <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
                 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
             </td>
         </tr>
         <tr>
             <td colspan="2" align="center">
-                Library & Framework
+                Framework
             </td>
             <td colspan="4">
-                <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-                <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-                <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+                <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+                <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
             </td>
         </tr>
         <tr>
@@ -161,8 +77,9 @@
             </td>
             <td colspan="4">
                 <img src="https://img.shields.io/badge/DATA.go.kr-00529B?style=for-the-badge&logo=D&logoColor=white"> 
-                <img src="https://img.shields.io/badge/Kakao Map Api-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> 
-                <img src="https://img.shields.io/badge/Kakao Mobility-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> 
+                <img src="https://img.shields.io/badge/Kakao Map-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> 
+                <img src="https://img.shields.io/badge/Kakao Mobility-FFCD00?style=for-the-badge&logo=kakao&logoColor=black">
+                <img src="https://img.shields.io/badge/Kakao Local-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"> 
             </td>
         </tr>
         <tr>
@@ -187,8 +104,8 @@
                 Tool
             </td>
             <td colspan="4">
-                <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-                <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+                <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+                <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
             </td>
         </tr>
         <tr>
@@ -203,40 +120,37 @@
     </table>
 </div>
 
-## 🗺️ 시스템 구조도
-<img width="895" alt="image" src="https://github.com/gretea5/findER-frontend/assets/120379834/f94a9594-c195-48fc-bfc4-a8fd02e64f2d">
+<br>
 
-> 백엔드 애플리케이션 : 모바일 애플리케이션의 백엔드 애플리케이션 <br>
-> 트래커 애플리케이션 : 1분 간격으로 전국 400여 개의 응급실의 실시간 병상 수를 갱신하기 위한 별도의 애플리케이션
+## 🗺️ 시스템 구조도
+blank
+
+<br>
 
 ## 👩‍👩‍👧‍👦 팀원 및 담당 파트
-<div sytle="overflow:hidden;">
 <table>
-   <tr>
-      <td colspan="2" align="center"><strong>Front-End Developer</strong></td>
-      <td colspan="2" align="center"><strong>Back-End Developer</strong></td>
+  <tr>
+    <td colspan="1" align="center"><strong>Front-End Developer</strong></td>
+    <td colspan="1" align="center"><strong>Back-End Developer</strong></td>
    </tr>
+  
   <tr>
     <td align="center">
         <a href="https://github.com/gretea5"><img src="https://avatars.githubusercontent.com/u/120379834?v=4" width="150px;" alt="박장훈"/><br/><sub><b>박장훈</b></sub></a>
     </td>
-     <td align="center">
-        <a href="https://github.com/LapinMin"><img src="https://avatars.githubusercontent.com/u/130971355?v=4" width="150px" alt="민건희"/><br/><sub><b>민건희</b></sub></a>
-     </td>
-     <td align="center">
-        <a href="https://github.com/wingunkh"><img src="https://avatars.githubusercontent.com/u/58140360?v=4" width="150px" alt="김현근"/><br/><sub><b>김현근(팀장)</b></sub></a>
-     </td>
-     <td align="center">
-        <a href="https://github.com/fkgnssla"><img src="https://avatars.githubusercontent.com/u/92067099?v=4" width="150px" alt="김형민"/><br/><sub><b>김형민</b></sub></a>
-     </td>
+    <td align="center">
+        <a href="https://github.com/wingunkh"><img src="https://avatars.githubusercontent.com/u/58140360?v=4" width="150px" alt="김현근"/><br/><sub><b>김현근)</b></sub></a>
+    </td>
+  </tr>
+  
   <tr>
+    <td colspan="1" align="center">Android Modile Application 개발 (Kotlin)</td>
+    <td colspan="1" align="center">Spring Web Application 개발 (Java)</td>
+  </tr>
 </table>
 </div>
 
-> 박장훈 : Flutter 사용 모바일 애플리케이션 공동 개발 / Kakao Map API 사용 위치 기반 서비스 개발 <br>
-> 민건희 : Flutter 사용 모바일 애플리케이션 공동 개발 <br>
-> 김현근 : Spring Boot 사용 백엔드 애플리케이션 공동 개발 / Spring Boot 사용 트래커 애플리케이션 개발 <br>
-> 김형민 : Spring Boot 사용 백엔드 애플리케이션 공동 개발 / Spring Security 사용 토큰 기반 로그인 체계 확립 <br>
+<br>
 
-## 📽️ 시연 영상
-[시연 영상 바로가기 ✈️](https://youtu.be/m4FCF3DETNg)
+## 🛠️ 리팩터링
+blank
