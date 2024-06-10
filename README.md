@@ -1,14 +1,12 @@
-<h1 align="center">🚑<strong> findER(Emergency Room) </strong>🚑</h1>
+<h1 align="center">🚑<strong> findER - Refactoring </strong>🚑</h1>
 
 <div align="center">
   <strong>2023년 제17회 공개 SW 개발자대회</strong>
   <br><br>
-  <em>실시간 응급실 정보 제공 애플리케이션, findER</em>
+  <em>실시간 응급실 정보 제공 애플리케이션, findER(Emergency Room)</em>
   <br><br>
   <em>written by gretea5 & wingunkh</em>
 </div>
-
-<br>
 
 <div align="center">
     <h3>
@@ -24,13 +22,15 @@
 
 <br>
 
-## 📄 목차
-- ✍🏻 프로젝트 개요
-- ⭐ 주요 기능
-- 기술 스택
-- 시스템 구조도
-- 팀원 및 담당 파트
-- 리팩터링
+## 📑 목차
+- ✍🏻 **프로젝트 개요**
+- ⭐ **주요 기능**
+- 📚 **기술 스택**
+- 🗺️ **시스템 구조도**
+- 👩‍👩‍👧‍👦 **팀원 및 담당 파트**
+- 🛠️ **리팩터링**
+
+<br>
 
 ## ✍🏻 프로젝트 개요
 '응급실 뺑뺑이'란 응급 환자가 이송 병원을 정하지 못해 다른 병원에 재이송되는 현상을 의미합니다. <br><br>
@@ -133,7 +133,7 @@
   <br><br>
 </details>
 
-## 📌 기술 스택
+## 📚 기술 스택
 <div>
     <table>
         <tr>
@@ -203,7 +203,7 @@
     </table>
 </div>
 
-## 🖻 시스템 구조도
+## 🗺️ 시스템 구조도
 <img width="895" alt="image" src="https://github.com/gretea5/findER-frontend/assets/120379834/f94a9594-c195-48fc-bfc4-a8fd02e64f2d">
 
 > 백엔드 애플리케이션 : 모바일 애플리케이션의 백엔드 애플리케이션 <br>
