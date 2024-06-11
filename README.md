@@ -125,10 +125,11 @@ blank
 <br>
 
 ## 👩‍👩‍👧‍👦 팀원 및 담당 파트
+
 <table>
   <tr>
-    <td colspan="1" align="center">Front-End</td>
-    <td colspan="1" align="center">Back-End</td>
+    <td align="center">Front-End</td>
+    <td align="center">Back-End</td>
   </tr>
   
   <tr>
@@ -141,17 +142,17 @@ blank
   </tr>
 
   <tr>
-    <td colspan="1" align="center">
-      <a href="https://github.com/gretea5">박장훈></a>
+    <td align="center">
+      <a href="https://github.com/gretea5">박장훈</a>
     </td>
-    <td colspan="1" align="center">
+    <td align="center">
       <a href="https://github.com/wingunkh">김현근</a>
     </td>
   </tr>
 
   <tr>
-    <td colspan="1" align="center">Android Mobile Application 개발 (Kotlin)></td>
-    <td colspan="1" align="center">Spring Web Application 개발 (Java)</td>
+    <td align="center">Android Mobile Application 개발 (Kotlin)</td>
+    <td align="center">Spring Web Application 개발 (Java)</td>
   </tr>
 </table>
 
