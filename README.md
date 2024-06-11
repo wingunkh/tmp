@@ -134,10 +134,10 @@ blank
   
   <tr>
     <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/120379834?v=4" width="150px;" alt="박장훈"/>
+        <img src="https://avatars.githubusercontent.com/u/120379834?v=4" width="120px;" alt="박장훈"/>
     </td>
     <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/58140360?v=4" width="150px" alt="김현근"/>
+        <img src="https://avatars.githubusercontent.com/u/58140360?v=4" width="120px" alt="김현근"/>
     </td>
   </tr>
 
@@ -151,8 +151,8 @@ blank
   </tr>
 
   <tr>
-    <td align="center">Android Mobile Application 개발 (Kotlin)</td>
-    <td align="center">Spring Web Application 개발 (Java)</td>
+    <td align="center" width="50%">Android Mobile Application 개발 (Kotlin)</td>
+    <td align="center" width="50%">Spring Web Application 개발 (Java)</td>
   </tr>
 </table>
 
