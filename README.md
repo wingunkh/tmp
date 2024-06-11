@@ -127,8 +127,8 @@ blank
 ## 👩‍👩‍👧‍👦 팀원 및 담당 파트
 <table>
   <tr>
-    <td colspan="1" align="center"><strong>Front-End</strong></td>
-    <td colspan="1" align="center"><strong>Back-End</strong></td>
+    <td colspan="1" align="center">Front-End</td>
+    <td colspan="1" align="center">Back-End</td>
   </tr>
   
   <tr>
@@ -142,16 +142,16 @@ blank
 
   <tr>
     <td colspan="1" align="center">
-      <a href="https://github.com/gretea5"><strong>박장훈</strong></a>
+      <a href="https://github.com/gretea5">박장훈></a>
     </td>
     <td colspan="1" align="center">
-      <a href="https://github.com/wingunkh"><strong>김현근</strong></a>
+      <a href="https://github.com/wingunkh">김현근</a>
     </td>
   </tr>
 
   <tr>
-    <td colspan="1" align="center"><strong>Android Mobile Application 개발 (Kotlin)</strong></td>
-    <td colspan="1" align="center"><strong>Spring Web Application 개발 (Java)</strong></td>
+    <td colspan="1" align="center">Android Mobile Application 개발 (Kotlin)></td>
+    <td colspan="1" align="center">Spring Web Application 개발 (Java)</td>
   </tr>
 </table>
 
