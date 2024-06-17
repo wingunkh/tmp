@@ -10,10 +10,12 @@
 
 <div align="center">
   <h3>
+    <!--
     <a href="https://malalove.notion.site/API-2f5e86d852ca4f73b2e66c21b8a31e3d?pvs=4">
       📜 REST API 명세서
     </a>
     <span> | </span>
+    -->
     <a href="https://github.com/gretea5/findER">
       🖼️ Frontend
     </a>
