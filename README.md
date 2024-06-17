@@ -43,7 +43,72 @@
 <br>
 
 ## ⭐ 주요 기능
-blank
+> ### 응급실 정보 제공 (위치, 전화번호 外 CT & MRI 촬영 가능 여부 등)
+<details>
+  <summary><b>화면 보기</b></summary>
+  <br>
+  <img 
+    width="325"
+    height="720"
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
+  <br><br>
+</details>
+
+> ### 응급실 잔여 병상 수 실시간 제공 (1분 간격 갱신)
+<details>
+  <summary><b>화면 보기</b></summary>
+  <br>
+  <img 
+    width="325" 
+    height="720"
+    src="https://github.com/gretea5/findER-frontend/assets/120379834/e685a776-cbbc-4e65-8f90-36dfc40df6bc">
+  <br><br>
+</details>
+
+> ### 카카오 맵 API를 통한 사용자 현재 위치 기준 가까운 응급실 목록 및 최적 경로 제공
+<details>
+  <summary><b>화면 보기</b></summary>
+  <br>
+  <img 
+    width="325" 
+    height="720" 
+    src="https://github.com/gretea5/findER-frontend/assets/120379834/633431e6-621b-4ddf-acb0-aa9e47d6e7a8">
+  <br><br>
+</details>
+
+
+> ### 카카오 모빌리티 API를 통한 응급실 예상 도착 시간 및 이동 거리 제공
+<details>
+  <summary><b>화면 보기</b></summary>
+  <br>
+  <img 
+    width="325" 
+    height="720" 
+    src="https://github.com/gretea5/findER-frontend/assets/120379834/6a974298-75fa-4514-a69e-029b8fe2fff8">
+  <br><br>
+</details>
+
+> ### 사용자 문진표 작성 기능 제공
+<details>
+  <summary><b>화면 보기</b></summary>
+  <br>
+  <img 
+    width="325" 
+    height="720" 
+    src="https://github.com/gretea5/findER-frontend/assets/120379834/c9653656-5634-42e9-91b7-99d5032d7f6e">
+  <br><br>
+</details>
+
+> ### 사용자 간 문진표 연동을 통한 문진표 상호 동기화 기능 제공
+<details>
+  <summary><b>화면 보기</b></summary>
+  <br>
+  <img 
+    width="325"
+    height="720"
+    src="https://github.com/gretea5/findER-frontend/assets/120379834/e76a8915-4b0a-4197-80ae-1c578dd3c059">
+  <br><br>
+</details>
 
 <br>
 
