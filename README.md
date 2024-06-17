@@ -5,7 +5,7 @@
   <br><br>
   <em>실시간 응급실 정보 제공 애플리케이션, findER(Emergency Room)</em>
   <br><br>
-  <em>written by gretea5 & wingunkh</em>
+  <em>written by wingunkh</em>
 </div>
 
 <div align="center">
