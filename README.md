@@ -120,7 +120,8 @@ blank
 <br>
 
 ## 🗺️ 시스템 구조도
-blank
+
+<img width="600" alt="image" src="https://github.com/wingunkh/tmp/assets/58140360/78e17e49-3ae2-46d3-bf9d-1396d6741f09">
 
 <br>
 
@@ -158,5 +159,6 @@ blank
 
 <br>
 
-## 🛠️ 리팩터링
+<!-- ## 🛠️ 리팩터링
 blank
+-->
