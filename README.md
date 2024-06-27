@@ -48,42 +48,50 @@
 ## ⭐ 주요 기능
 
 ### 응급실 위치 확인 기능
-<img width="325" height="720" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
-Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
-또한, Kakao Local API를 통한 검색 기능을 제공합니다.
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/f3221479-39f3-403d-83d1-4a1067896c7b">
 
-<br><br>
+Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
+또한, Kakao Local API를 통해 검색 기능을 제공합니다.
+
+<br>
 
 ### 응급실 프리뷰 기능
-<img width="325" height="720" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
-국립중앙의료원 API를 통한 실시간 응급실 잔여 병상 수를 제공합니다. (1분 간격 갱신) <br>
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/2dc5d9e4-8cd8-429a-ae2e-642125e28ec3">
+
+국립중앙의료원 API를 통해 실시간 응급실 잔여 병상 수를 제공합니다. (1분 간격 갱신) <br>
 또한, Kakao Moblity API를 통해 이동 거리와 예상 이동 소요 시간을 제공합니다.
 
-<br><br>
+<br>
 
 ### 응급실 상세보기 기능
-<img width="325" height="720" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
-구급차, CT, MRI 가용 여부와 진료 과목 등 프리뷰에서 제공하지 않는 추가적인 응급실 정보를 제공합니다.
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/f58e2489-443a-4c8f-80a5-3679bbe6f573">
 
-<br><br>
+구급차, CT, MRI 가용 여부와 진료 과목 등 프리뷰에서 제공하지 않는 응급실 정보를 추가적으로 제공합니다.
+
+<br>
 
 ### 길 찾기 기능
-<img width="325" height="720" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/3ed94866-fc5a-47f6-a54e-2d51a02bd721">
+
 응급실 상세보기에서 버튼을 클릭해 카카오 맵 길 찾기 기능을 사용할 수 있습니다.
 
-<br><br>
+<br>
 
 ### 문진표 CRUD 기능
-<img width="325" height="720" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/49c91fee-2cd2-4d5d-b10b-5bd709c8fa30">
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/2ff6ccdc-20e9-40e2-b6ba-93887e51a3e4">
+
 응급 상황에 유용하게 사용될 수 있도록 문진표 관련 기능을 제공합니다.
 
-<br><br>
+<br>
 
 ### 사용자 간 문진표 연동 기능
-<img width="325" height="720" src="https://github-production-user-asset-6210df.s3.amazonaws.com/120379834/281963820-c3d78076-d0bc-49bb-8d50-1fdbe855fb8f.png">
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/c192b75d-4d4a-4cc7-8dd9-69086d3272d1">
+<img width="300" height="600" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/792c881d-811f-4313-b36e-e8b4c594ee9a">
+
 다른 사용자의 시리얼 번호를 통해 연동 관계를 설정하고, 문진표를 공유할 수 있습니다.
 
-<br><br>
+<br>
 
 ## 📚 기술 스택
 <div>
@@ -165,7 +173,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
 
 ## 🗺️ 시스템 구조도
 
-<img width="600" alt="image" src="https://github.com/wingunkh/tmp/assets/58140360/78e17e49-3ae2-46d3-bf9d-1396d6741f09">
+<img width="600" height="360" src="https://github.com/wingunkh/findER-Refactoring/assets/58140360/8580f70c-7bee-40a5-ae9e-9c0196064ede"> <br>
 
 <br>
 
