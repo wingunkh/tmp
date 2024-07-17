@@ -3,7 +3,7 @@
 <div align="center">
   <strong>2023년 제17회 공개 SW 개발자대회</strong>
   <br><br>
-  <em>실시간 응급실 정보 제공 애플리케이션, findER(Emergency Room)</em>
+  <em>실시간 응급실 정보 제공 모바일 앱, findER(Emergency Room)</em>
   <br><br>
   <em>written by wingunkh & gretea5</em>
 </div>
@@ -38,7 +38,7 @@
 ## ✍🏻 프로젝트 개요
 응급실 병상이 없어서 환자가 떠돌다가 숨지는, 이른바 **'응급실 뺑뺑이'** 현상이 사회적 이슈로 부각되고 있습니다.
 <br>
-이에 저희 팀은 이러한 사회적 문제를 해결하는 데 일조하고자 **실시간 잔여 병상 수를 포함한 다양한 응급실 관련 정보를 제공하는 애플리케이션**을 개발하였습니다.
+이에 저희 팀은 이러한 사회적 문제를 해결하는 데 일조하고자 **실시간 잔여 병상 수를 포함한 다양한 응급실 관련 정보를 제공하는 모바일 앱**을 개발하였습니다.
 <br>
 <br>
 📰 [<ins>'응급실 뺑뺑이' 잇단 사망‥왜 반복되나</ins> (MBC 뉴스)](https://imnews.imbc.com/replay/2023/nwtoday/article/6488902_36207.html)
