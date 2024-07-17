@@ -311,7 +311,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   - 개선 : 가독성 향상
 </details>
 
-##### 13. @RestControllerAdvice 활용 전역 예외 처리 구현 (2024-06-19)
+##### 13. @RestControllerAdvice 사용 전역 예외 처리 구현 (2024-06-19)
 <details>
   <summary>자세히 보기</summary> <br>
   - 전 : 각 클래스에서 예외 처리 <br>
@@ -319,7 +319,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   - 개선 : 가독성 향상
 </details>
 
-##### 14. @Aspect 활용 로깅에 AOP 적용 (2024-07-10)
+##### 14. @Aspect 사용 로깅에 AOP 적용 (2024-07-10)
 <details>
   <summary>자세히 보기</summary> <br>
   - 전 : 각 클래스에서 로깅 <br>
