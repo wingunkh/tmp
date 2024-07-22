@@ -238,7 +238,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   <summary>자세히 보기</summary> <br>
   - 전 : 제한 시간 내 두 사용자가 서로에게 공유 요청 전송 <br>
   - 후 : 사용자에게 고유한 시리얼 번호 부여, 이를 바탕으로 공유 요청 전송 <br>
-  - 개선 : 네트워크 트래픽 감소
+  - 개선 : 클라이언트 요청 횟수 감소
 </details>
 
 ##### 4. 응급실 정보 저장 로직 변경 (2024-03-29)
@@ -263,12 +263,13 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   <summary>자세히 보기</summary> <br>
   - 전 : 국립중앙의료원 API 활용 클래스와 Kakao Mobility API 활용 클래스가 독립적 <br>
   - 후 : 추상 클래스로 일반화, 각 클래스가 추상 클래스의 메서드를 오버라이드 <br>
-  - 개선 : 코드 중복 제거
+  - 개선 : 코드 중복 제거, 유지보수성 향상
 </details>
 
 ##### 7. 응급실 도메인에 진료과목 추가 (2024-05-06)
 <details>
   <summary>자세히 보기</summary> <br>
+  - 예 : 가정의학과, 구강내과, 내과 ...
   - 개선 : 사용자 관점에서 유의미한 정보라고 판단 <br>
 </details>
 
@@ -277,7 +278,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   <summary>자세히 보기</summary> <br>
   - 전 : 사용자가 Kakao Map을 드래그할 때마다 범위 내 모든 응급실에 대한 위치 정보 응답 <br>
   - 후 : Kakao Map 화면 이동 시 (or 사용자 로그인 시) 모든 응급실에 대한 위치 정보 응답, 프론트엔드 측에서 ShraedPreference를 통해 유지 <br>
-  - 개선 : 네트워크 트래픽 감소
+  - 개선 : 클라이언트 요청 횟수 감소
 </details>
 
 ##### 9. Spring Boot 버전 업데이트 (2024-05-24)
@@ -308,7 +309,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   <summary>자세히 보기</summary> <br>
   - 전 : Checked Exception <br>
   - 후 : Unchecked Exception <br>
-  - 개선 : 가독성 향상
+  - 개선 : 가독성 향상, 유지보수성 향상
 </details>
 
 ##### 13. @RestControllerAdvice 사용 전역 예외 처리 구현 (2024-06-19)
@@ -316,7 +317,7 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   <summary>자세히 보기</summary> <br>
   - 전 : 각 클래스에서 예외 처리 <br>
   - 후 : @RestControllerAdvice 클래스에서 전역적으로 예외 처리 <br>
-  - 개선 : 가독성 향상
+  - 개선 : 가독성 향상, 유지보수성 향상
 </details>
 
 ##### 14. @Aspect 사용 로깅에 AOP 적용 (2024-07-10)
@@ -324,5 +325,5 @@ Kakao Map API 지도에서 응급실 위치를 확인할 수 있습니다. <br>
   <summary>자세히 보기</summary> <br>
   - 전 : 각 클래스에서 로깅 <br>
   - 후 : @Aspect 클래스를 통해 공통 관심 사항 (로깅) 분리 <br>
-  - 개선 : 가독성 향상
+  - 개선 : 가독성 향상, 유지보수성 향상
 </details>
