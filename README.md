@@ -91,15 +91,15 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/0d3dc0fb-926a-46ca-be33-3d2d981cb405" width="300" height="650"><p>기본 메시지</p></td>
-    <td><img src="https://github.com/user-attachments/assets/2d886a51-4539-4dca-9fe9-2cd5bfc72ab8" width="300" height="650"><p>공지사항 확인 기능</p></td>
+    <td><img src="https://github.com/user-attachments/assets/56b25cf4-592a-42d8-80ec-e499e599ee95" width="300" height="650"><p>기본 메시지</p></td>
+    <td><img src="https://github.com/user-attachments/assets/58c9d89d-2d63-4438-8273-49524fdb2c40" height="650"><p>공지사항 확인 기능</p></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9127ea62-2f9d-46a1-aaa1-95b1bf7df429" width="300" height="650"><p>클라이언트 업데이트 확인 기능</p></td>
-    <td><img src="https://github.com/user-attachments/assets/5656461d-4fb5-424f-beaa-e0d49feff65a" width="300" height="650"><p>진행 중 이벤트 확인 기능</p></td>
+    <td><img src="https://github.com/user-attachments/assets/33069bc7-9fcd-4ef6-8249-19bc618ea721" width="300" height="650"><p>클라이언트 업데이트 확인 기능</p></td>
+    <td><img src="https://github.com/user-attachments/assets/588d7d01-fb74-4e1c-af7d-30a60d751c71" width="300" height="650"><p>진행 중 이벤트 확인 기능</p></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/6353e7a0-0a54-44f0-8eb9-7f92c2a8dc74" width="300" height="650"><p>캐시샵 공지 확인 기능</p></td>
+    <td><img src="https://github.com/user-attachments/assets/67676158-3c02-4206-a723-f7162dc3bcb7" width="300" height="650"><p>캐시샵 공지 확인 기능</p></td>
   </tr>
 </table>
 
